@@ -21,26 +21,9 @@ def navibar():
                 pc.tab("일정"),
                 pc.tab("가계부"),
                 pc.tab("위키"),
-                pc.tab("여행"),
-                pc.tab("Events Reference"),
-                pc.tab("Gallery"),
+                pc.tab("여행")
             ),
             style = navibar_box_style,
         ),
         style = navibar_style
     )
-
-
-"""
-def navibar2(title):
-    return pc.box(
-        pc.hstack(
-            pc.link(
-                "● "+ title,
-                href="/",
-            ),
-            style = navibar2_box_style
-        ),
-        style = navibar2_style
-    )
-"""

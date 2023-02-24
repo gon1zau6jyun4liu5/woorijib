@@ -7,14 +7,6 @@ navibar_style = {
     "z_index" : "500",
 }
 
-"""
-#navibar2_style
-navibar2_style = {
-        "width" : "100%",
-        "top" : "0px",
-        "paddingTop" : "1em",
-}
-"""
 
 #
 navibar_box_style = {
@@ -24,19 +16,6 @@ navibar_box_style = {
     "bg" : "rgba(255,255,255, 1)",
 }
 
-#
-"""
-navibar2_box_style = {
-    "justifyContent" : "space-between",
-    # "borderTop" : "0.5em solid #ff0000",
-    # "borderTop" : "0.1em solid #F0F0F0",
-    "padding_x" : "2em",
-    "padding_y" : "1em",
-    "bg" : "rgba(255,255,255, 1)",
-    "fontSize" : "1em",
-    "fontWeight" : "bold",
-}
-"""
 
 #
 tab_style = {
