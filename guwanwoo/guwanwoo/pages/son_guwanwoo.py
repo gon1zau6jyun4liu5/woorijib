@@ -28,13 +28,13 @@ def sonGuwanwoo():
                     pc.hstack(
                         pc.link(
                             pc.vstack(pc.image(src="guwanwoo.gif", height="12em", width="16em"), 
-                            pc.heading("관우 사진", font_size="1.2em")),
+                            pc.heading("사진 写真", font_size="1.2em")),
                             href="/",
                             # style = link_style2
                         ),
                         pc.link(
-                            pc.vstack(pc.image(src="mama.ico", height="12em", width="18em"), 
-                            pc.heading("엄마 ママ", font_size="1.2em")),
+                            pc.vstack(pc.image(src="baby_growth_process.png", height="12em", width="30em"), 
+                            pc.heading("성장일지 成長日記", font_size="1.2em")),
                             href="/",
                             # style = link_style2
                         ),
